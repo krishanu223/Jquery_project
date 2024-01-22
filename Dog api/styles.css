@@ -1,0 +1,7 @@
+.dogimg img {
+    margin-left: 40%;
+    margin-top: 40px;
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+}
