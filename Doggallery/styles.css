@@ -1,0 +1,12 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#breed-image img {
+    max-height: 400px;
+    max-width: 100%;
+    min-height: 300px;
+    margin: 20px;
+}
