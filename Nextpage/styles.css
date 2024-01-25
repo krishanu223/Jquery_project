@@ -1,0 +1,31 @@
+.inp {
+    width: 100vw;
+    height: 100px;
+    background-color: rgba(0, 255, 255, 0.201);
+    text-align: center;
+}
+
+input {
+    margin-right: 200px;
+    margin-top: 40px;
+    height: 30px;
+}
+
+button {
+    height: 30px;
+    width: 150px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+#nasa-images img {
+    max-height: 300px;
+    max-width: 100%;
+    min-height: 200px;
+    margin: 20px;
+}
